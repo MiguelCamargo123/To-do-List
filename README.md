@@ -28,5 +28,3 @@ This is a to-do list with the purpose to train Python and programming logic
 
 ### 📦 Version
 - v1.0.0 - first stable version of the code
-
--**Nota: fiz o Texto em inglês para treinar o meu inglês**
