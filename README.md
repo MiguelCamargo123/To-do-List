@@ -1,30 +1,30 @@
-# To-do-List
+# To-do List
 
-This is a to-do list with the purpose to train Python and programming logic
+A simple to-do list created to practice Python and programming logic.
 
-## 🧮 Functions
-- To add a task in the list
-- List the tasks of the list
-- Remove tasks of the list
+## Features
+- Add tasks to the list
+- List all tasks
+- Remove tasks from the list
 
 ## 🧑‍💻 How to use the program
 
-### Prerequisites
-- Python 3 in the computer
+### Requirements 
+- Python 3 installed on the computer
 
 ### Execution
 
-1. Clone the repositore
+1. Clone the repository:
    ```bash
    git clone git@github.com:MiguelCamargo123/To-do-List.git
 
-2. Enter in the paste of repositore
+2. Enter the project folder:
    ```bash
    cd To-do-List
 
-3. Run the code
+3. Run the code:
    ```bash
    python To-doList.py
 
 ### 📦 Version
-- v1.0.0 - first stable version of the code
+- v1.0.0 - first stable version
